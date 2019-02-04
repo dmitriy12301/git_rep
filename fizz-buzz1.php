@@ -26,9 +26,9 @@ function &fizz_buzz($a, $b, $c) {
 
 }
 
-
+hjkk
 //fwrite($frez переменная файла .
 
-
+////////
 //$x = fizz_buzz3(3, 5, 85);
 //echo $x;
