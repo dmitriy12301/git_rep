@@ -1,9 +1,9 @@
 <?php
 
+gug
 
-111
-
-
+uygig
+ufjuifkkkkk
 //задание 1.1
 function climing_mountain($arr, $idx){
     $res_idx = $arr[$idx];
