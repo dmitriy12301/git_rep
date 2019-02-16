@@ -1,7 +1,7 @@
 <?php
 
 gug
-
+fuyu
 uygig
 ufjuifkkkkk
 //задание 1.1
